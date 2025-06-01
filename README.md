@@ -25,8 +25,12 @@ Hoje, estou em transição de carreira dentro da mesma área e engajado em três
 ⚠️ Engenharia de Segurança do Trabalho – Impacto direto na vida das pessoas e nos resultados das empresas.
 
 Utilizo para isso minhas experiências, tenho orgulho de contribuir para ambientes mais seguros, produtivos e sustentáveis, entregando valor real aos projetos por onde passo. </p>
-<article>
+<article> <br/>
+ 
+Se você gosta do que eu faço? talvez considere um café / chá [Agendar Call!](https://calendly.com/livsonlima-bgos/60min_com_cafe)
 
+ 
+----
 <p align="left">
     <a href="https://github.com/lmlima16?tab=repositories&sort=stargazers">
         <img 
