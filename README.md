@@ -113,8 +113,8 @@ Utilizo para isso minhas experiências, tenho orgulho de contribuir para ambient
  
  <div class="wrap">  <br/>
   <img align="href="https://github.com/lmlima16/github-readme-stats"
-  /><img align="align" src="https://github-readme-stats.vercel.app/api?username=lmlima16&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="lmlima16 github stats" /></a> 
-   <a href="https://github.com/lmlima16/github-readme-stats" <div class="wrap" ><img align="align" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmlima16&layout=compact&theme=buefy&hide_border=true" /></a>  
+  /><img align="align" src="https://github-readme-stats.vercel.app/api?username=lmlima16&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="lmlima16 github stats" /></a> 
+   <a href="https://github.com/lmlima16/github-readme-stats" <div class="wrap" ><img align="align" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmlima16&layout=compact&theme=github_dark&hide_border=true" /></a>  
   </div>
  
 <!--
